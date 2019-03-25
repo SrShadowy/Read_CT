@@ -1,0 +1,14 @@
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.csprojAssemblyReference.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.Form1.resources
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.Properties.Resources.resources
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.csproj.GenerateResource.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.csproj.CoreCompileInputs.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Release\XML_CHEAT.exe.config
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Release\XML_CHEAT.exe
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Release\XML_CHEAT.pdb
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Release\Memory.dll
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Release\Memory.xml
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.csproj.CopyComplete
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.exe
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.pdb
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Release\XML_CHEAT.Processss.resources

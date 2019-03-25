@@ -1,0 +1,14 @@
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Debug\XML_CHEAT.exe.config
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Debug\XML_CHEAT.exe
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Debug\XML_CHEAT.pdb
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.csprojAssemblyReference.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.Form1.resources
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.Properties.Resources.resources
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.csproj.GenerateResource.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.csproj.CoreCompileInputs.cache
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.exe
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.pdb
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Debug\Memory.dll
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\bin\Debug\Memory.xml
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.csproj.CopyComplete
+C:\Users\Shadowy\source\repos\XML_CHEAT\XML_CHEAT\obj\Debug\XML_CHEAT.Processss.resources
